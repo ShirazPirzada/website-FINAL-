@@ -1,0 +1,99 @@
+body
+{
+	background-image: url("black.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#mainheader_reviews
+{
+	color:white;
+	text-align:center;
+	font-family:times new roman;
+	font-size:25px;
+	letter-spacing: 9px;
+	padding:20px;
+	background: rgba(0, 0, 0, 0.5);
+	margin:9px 0px 0px 0px;
+}
+
+#img1
+{
+	width:50%;
+	float:left;
+
+}
+#img2
+{
+	width:50%;
+	float:right;
+}
+#wrapper
+{
+	width:100%;
+}
+#content_of_review
+{
+	width:40%;
+	float:left;
+	padding:50px;
+
+}
+.heading
+{
+	font-family:sans-serif;
+	color:#a65959;
+	font-size:30px;
+	letter-spacing: 4px;
+}
+.text
+{
+	font-family: Calibri, Myriad;
+	color:white;
+	text-shadow: 2px 2px 5px grey;
+}
+#specification_table
+{
+	width:50%;
+	float:right;
+}
+
+table
+{
+	margin-left:auto ;
+	margin-right: auto;
+	/*box-shadow: 0px 0px 20px 20px grey;*/
+	border-collapse: collapse;
+}
+
+#mainheading_table
+{
+	color:black;
+	font-family: Calibri, Myriad;
+	padding:10px;
+	text-shadow: 1px 1px 1px grey;
+	text-align:center;
+}
+
+.column1
+{
+	color:#a65959;
+	font-family: Calibri, Myriad;
+	padding:10px ;
+	text-shadow: 0.8px 0.8px 1px black;
+}
+.column2
+{
+	color:#ffb366;
+	font-family: Calibri, Myriad;
+	padding:10px;
+	text-shadow: 0.8px 0.8px 1px black;
+}
+.column3
+{
+	color:#c99c9c;
+	font-family: Calibri, Myriad;
+	padding:10px;
+	text-shadow: 0.8px 0.8px 1px black;
+	text-align:left;
+}

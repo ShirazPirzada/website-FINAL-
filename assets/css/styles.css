@@ -1,0 +1,14 @@
+/*.list-inline-item
+{
+	margin-left:50px;
+	margin-right:300px;
+}*/
+
+.list-inline-item
+{
+	text-align: center;
+}
+.list-inline
+{
+	width:100%;
+}

@@ -1,0 +1,96 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+table
+{
+	border:0.1px grey;
+	border-collapse: collapse;
+}
+p
+{
+	margin-left:80px;
+}
+
+.huawei
+{
+	text-decoration:none;
+	color:red;
+	font-family:sans-serif;
+	margin-left:80px;
+}
+.huawei:hover
+{
+	color:black;
+	transition: ease 0.6s;
+	text-shadow: 2px 2px 5px grey;
+	text-decoration:none;
+}
+#huaweiheading
+{
+	color:white;
+	text-align:center;
+	font-family:times new roman;
+	font-size:40px;
+	letter-spacing: 20px;
+	padding:20px;
+	background: rgba(0, 0, 0, 0.5);
+	margin:9px 0px 9px 0px;
+}
+
+.img_huawei
+{
+	width:300px;
+	margin-left:43px;
+}
+th
+{
+	padding:30px;
+}
+
+#huaweiimg1
+{
+	width:200px;
+	margin-left:43px;
+}
+#huaweiimg3
+{
+	width:200px;
+	margin-left:43px;
+}
+#huaweiimg4
+{
+	width:200px;
+	margin-left:43px;
+}
+#huaweiimg7
+{
+	width:200px;
+	margin-left:43px;
+}
+#huaweiimg8
+{
+	width:310px;
+	margin-left:43px;
+}
+#huaweiimg9
+{
+	width:200px;
+	margin-left:43px;
+}
+#huaweiimg11
+{
+	width:230px;
+	margin-left:43px;
+}
+#huaweiimg12
+{
+	width:230px;	
+	margin-left:43px;
+}
+#huaweiimg6
+{
+	width:250px;	
+	margin-left:43px;
+}
